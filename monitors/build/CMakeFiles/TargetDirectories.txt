@@ -1,0 +1,3 @@
+/home/chinyakov/CLionProjects/OS_Lab5/monitors/build/CMakeFiles/sem.dir
+/home/chinyakov/CLionProjects/OS_Lab5/monitors/build/CMakeFiles/edit_cache.dir
+/home/chinyakov/CLionProjects/OS_Lab5/monitors/build/CMakeFiles/rebuild_cache.dir
